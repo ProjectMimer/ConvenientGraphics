@@ -157,7 +157,7 @@ namespace ConvenientGraphics
         {
             Start();
         }
-        private void OnLogout()
+        private void OnLogout(int type, int code)
         {
 
         }
